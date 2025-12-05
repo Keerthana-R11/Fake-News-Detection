@@ -8,10 +8,10 @@ The widespread dissemination of misinformation and fake news has become a critic
 The core functionality of the system is to classify input news articles as either FAKE or REAL, helping users identify potentially misleading information. This is achieved using a Passive Aggressive Classifier, a suitable model for large-scale text classification, in combination with TF-IDF (Term Frequency–Inverse Document Frequency) for feature extraction from text data.
 
 # Tools and Technologies:
-•**Python** for data processing and machine learning logic.
+• **Python** for data processing and machine learning logic.
 
-•**Flask** to serve the web application.
+• **Flask** to serve the web application.
 
-•**Scikit-learn** for model training and text vectorization.
+• **Scikit-learn** for model training and text vectorization.
 
-•**HTML/CSS** for the front-end interface.
+• **HTML/CSS** for the front-end interface.
