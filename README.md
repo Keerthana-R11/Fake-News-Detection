@@ -13,3 +13,7 @@ The core functionality of the system is to classify input news articles as eithe
 * **Flask** to serve the web application
 * **Scikit-learn** for model training and text vectorization
 * **HTML/CSS** for the front-end interface
+
+📜License
+
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
