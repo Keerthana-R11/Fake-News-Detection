@@ -1,5 +1,5 @@
 ## Fake-News-Detection
-Machine learning And 
+(Machine learning And 
 Natural Language Processing) combination project!
 
 # 📌 Project Overview
