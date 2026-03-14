@@ -1,6 +1,6 @@
 ## Fake-News-Detection
-(Machine learning And 
-Natural Language Processing) combination project!
+Machine learning And 
+Natural Language Processing combination project!
 
 # 📌 Project Overview
 The widespread dissemination of misinformation and fake news has become a critical issue in today's digital world. To address this challenge, this project presents a Fake News Detection System built using machine learning techniques and deployed as a Flask-based web application.
